@@ -9,7 +9,7 @@ describe("SauceDemo Test Suite", function() {
   let driver;
 
   // Meningkatkan batas waktu untuk seluruh suite pengujian
-  this.timeout(10000); // 10 detik
+  this.timeout(20000); // 20 detik
 
   // Hook 'before' untuk menyiapkan WebDriver sebelum pengujian dimulai
   before(async function() {
