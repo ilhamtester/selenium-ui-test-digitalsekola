@@ -1,2 +1,2 @@
-video run test sesi 10 
-https://drive.google.com/file/d/1m9P4KX_ssnELleIcS2nLXEY3n7pPH3Za/view?usp=sharing
+video run test sesi 11
+https://drive.google.com/file/d/1197vb3iMVpd79TPDRYeLXZLbnEfV7tim/view?usp=sharing
